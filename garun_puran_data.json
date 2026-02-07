@@ -111,7 +111,7 @@
     "id": 1,
     "name": "मृत्यु और परलोक",
     "icon": "death",
-    "chapter_ids": [1, 3]
+    "chapter_ids": [1, 9]
   },
   {
     "id": 2,
@@ -135,7 +135,7 @@
     "id": 5,
     "name": "पाप और उनके दंड",
     "icon": "sin",
-    "chapter_ids": [3, 7]
+    "chapter_ids": [3, 8]
   },
   {
     "id": 6,
@@ -147,7 +147,7 @@
     "id": 7,
     "name": "पुण्य और स्वर्ग",
     "icon": "heaven",
-    "chapter_ids": [4, 6]
+    "chapter_ids": [3, 4]
   },
   {
     "id": 8,

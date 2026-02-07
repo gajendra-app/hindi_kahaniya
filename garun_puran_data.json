@@ -74,31 +74,79 @@
     }
   ],
   "categories": [
-    {
-      "id": 1,
-      "name": "मृत्यु और परलोक",
-      "icon": "death",
-      "chapter_ids": [1, 3]
-    },
-    {
-      "id": 2,
-      "name": "कर्म और पुनर्जन्म",
-      "icon": "karma",
-      "chapter_ids": [2]
-    },
-    {
-      "id": 3,
-      "name": "धर्म और दान",
-      "icon": "dharma",
-      "chapter_ids": [4, 5]
-    },
-    {
-      "id": 4,
-      "name": "मोक्ष और मुक्ति",
-      "icon": "moksha",
-      "chapter_ids": [6]
-    }
-  ],
+  {
+    "id": 1,
+    "name": "मृत्यु और परलोक",
+    "icon": "death",
+    "chapter_ids": [1, 3]
+  },
+  {
+    "id": 2,
+    "name": "कर्म और पुनर्जन्म",
+    "icon": "karma",
+    "chapter_ids": [2]
+  },
+  {
+    "id": 3,
+    "name": "धर्म और दान",
+    "icon": "dharma",
+    "chapter_ids": [4, 5]
+  },
+  {
+    "id": 4,
+    "name": "मोक्ष और मुक्ति",
+    "icon": "moksha",
+    "chapter_ids": [6]
+  },
+  {
+    "id": 5,
+    "name": "पाप और उनके दंड",
+    "icon": "sin",
+    "chapter_ids": [3, 7]
+  },
+  {
+    "id": 6,
+    "name": "नरक लोक का वर्णन",
+    "icon": "hell",
+    "chapter_ids": [3, 8]
+  },
+  {
+    "id": 7,
+    "name": "पुण्य और स्वर्ग",
+    "icon": "heaven",
+    "chapter_ids": [4, 6]
+  },
+  {
+    "id": 8,
+    "name": "श्राद्ध और पितृ कर्म",
+    "icon": "ancestor",
+    "chapter_ids": [1, 9]
+  },
+  {
+    "id": 9,
+    "name": "जीवन के कर्तव्य",
+    "icon": "duty",
+    "chapter_ids": [2, 5]
+  },
+  {
+    "id": 10,
+    "name": "भक्ति और ईश्वर उपासना",
+    "icon": "bhakti",
+    "chapter_ids": [6]
+  },
+  {
+    "id": 11,
+    "name": "माया और संसार",
+    "icon": "illusion",
+    "chapter_ids": [7]
+  },
+  {
+    "id": 12,
+    "name": "ज्ञान और आत्मबोध",
+    "icon": "knowledge",
+    "chapter_ids": [6, 7]
+  }
+],
   "quotes": [
     {
       "id": 1,

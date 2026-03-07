@@ -1,0 +1,52 @@
+{
+  "categories": [
+    {
+      "id": "ramayana",
+      "title": "रामायण",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Rama_Ravana_battle_Ramayana.jpg/640px-Rama_Ravana_battle_Ramayana.jpg",
+      "stories_count": 5
+    },
+    {
+      "id": "pauranic_katha",
+      "title": "पौराणिक कथाएँ",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Lord_Brahma.jpg/640px-Lord_Brahma.jpg",
+      "stories_count": 8
+    },
+    {
+      "id": "vishnu_puran",
+      "title": "विष्णु पुराण",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Vishnu_Puja.jpg/640px-Vishnu_Puja.jpg",
+      "stories_count": 6
+    },
+    {
+      "id": "adhyatmik",
+      "title": "आध्यात्मिक कथाएँ",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hanuman_langur.jpg/640px-Hanuman_langur.jpg",
+      "stories_count": 9
+    },
+    {
+      "id": "lok_kathaen",
+      "title": "लोक कथाएँ",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Lion_%28PSF%29.png/640px-Lion_%28PSF%29.png",
+      "stories_count": 7
+    },
+    {
+      "id": "shikshaprad",
+      "title": "शिक्षाप्रद कहानियाँ",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Parrot_in_a_tree.jpg/640px-Parrot_in_a_tree.jpg",
+      "stories_count": 10
+    },
+    {
+      "id": "munshi_premchand",
+      "title": "मुंशी प्रेमचंद",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Munshi_Premchand.jpg/640px-Munshi_Premchand.jpg",
+      "stories_count": 12
+    },
+    {
+      "id": "vrat_kathaen",
+      "title": "व्रत कथाएँ",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Vat_Savitri_Pooja.jpg/640px-Vat_Savitri_Pooja.jpg",
+      "stories_count": 5
+    }
+  ]
+}

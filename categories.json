@@ -2,7 +2,7 @@
   "categories": [
     {
       "id": "ramayana",
-      "title": "रामायण",
+      "title": "रामायण कथा",
       "image_url": "https://raw.githubusercontent.com/gajendra-app/photos/main/ram.jpg",
       "stories_count": 5
     },
@@ -13,14 +13,26 @@
       "stories_count": 8
     },
     {
+      "id": "adhyatmik",
+      "title": "आध्यात्मिक कथाएँ",
+      "image_url": "https://raw.githubusercontent.com/gajendra-app/photos/main/ramayan.jpg",
+      "stories_count": 8
+    },
+    {
       "id": "vishnu_puran",
       "title": "विष्णु पुराण",
       "image_url": "https://raw.githubusercontent.com/gajendra-app/photos/main/vishnu.jpg",
       "stories_count": 6
     },
     {
-      "id": "adhyatmik",
-      "title": "आध्यात्मिक कथाएँ",
+      "id": "shiv_puran",
+      "title": "शिव पुराण",
+      "image_url": "https://raw.githubusercontent.com/gajendra-app/photos/main/vishnu.jpg",
+      "stories_count": 6
+    },
+    {
+      "id": "mahabharat",
+      "title": "महाभारत कथाएँ",
       "image_url": "https://raw.githubusercontent.com/gajendra-app/photos/main/ramayan.jpg",
       "stories_count": 9
     },
@@ -37,7 +49,79 @@
       "stories_count": 10
     },
     {
+      "id": "bal_krishna_lila",
+      "title": "बाल कृष्ण लीला",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Parrot_in_a_tree.jpg/640px-Parrot_in_a_tree.jpg",
+      "stories_count": 10
+    },
+    {
       "id": "munshi_premchand",
+      "title": "मुंशी प्रेमचंद",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Munshi_Premchand.jpg/640px-Munshi_Premchand.jpg",
+      "stories_count": 12
+    },
+    {
+      "id": "ved_prichay",
+      "title": "वेद परिचय",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Munshi_Premchand.jpg/640px-Munshi_Premchand.jpg",
+      "stories_count": 12
+    },
+    {
+      "id": "agni_puran",
+      "title": "अग्नि पुराण",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Munshi_Premchand.jpg/640px-Munshi_Premchand.jpg",
+      "stories_count": 12
+    },
+    {
+      "id": "brahma_puran",
+      "title": "ब्रह्म पुराण",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Munshi_Premchand.jpg/640px-Munshi_Premchand.jpg",
+      "stories_count": 12
+    },
+    {
+      "id": "garun_puran",
+      "title": "गरुण पुराण",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Munshi_Premchand.jpg/640px-Munshi_Premchand.jpg",
+      "stories_count": 12
+    },
+    {
+      "id": "mahatma_budha",
+      "title": "महात्मा बुद्ध",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Munshi_Premchand.jpg/640px-Munshi_Premchand.jpg",
+      "stories_count": 12
+    },
+    {
+      "id": "shekh_chilli",
+      "title": "शेख चिल्ली",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Munshi_Premchand.jpg/640px-Munshi_Premchand.jpg",
+      "stories_count": 12
+    },
+    {
+      "id": "tenaliram",
+      "title": "तेनालीराम",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Munshi_Premchand.jpg/640px-Munshi_Premchand.jpg",
+      "stories_count": 12
+    },
+    {
+      "id": "akbar_birbal",
+      "title": "अकबर बीरबल",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Munshi_Premchand.jpg/640px-Munshi_Premchand.jpg",
+      "stories_count": 12
+    },
+    {
+      "id": "osho",
+      "title": "ओशो कहानीया",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Munshi_Premchand.jpg/640px-Munshi_Premchand.jpg",
+      "stories_count": 12
+    },
+    {
+      "id": "jeevansikh",
+      "title": "जीवन की सीख",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Munshi_Premchand.jpg/640px-Munshi_Premchand.jpg",
+      "stories_count": 12
+    },
+    {
+      "id": "pramchand",
       "title": "मुंशी प्रेमचंद",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Munshi_Premchand.jpg/640px-Munshi_Premchand.jpg",
       "stories_count": 12

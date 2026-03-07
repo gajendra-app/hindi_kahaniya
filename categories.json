@@ -9,25 +9,25 @@
     {
       "id": "pauranic_katha",
       "title": "पौराणिक कथाएँ",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Lord_Brahma.jpg/640px-Lord_Brahma.jpg",
+      "image_url": "https://raw.githubusercontent.com/gajendra-app/photos/main/ramayan.jpg",
       "stories_count": 8
     },
     {
       "id": "vishnu_puran",
       "title": "विष्णु पुराण",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Vishnu_Puja.jpg/640px-Vishnu_Puja.jpg",
+      "image_url": "https://raw.githubusercontent.com/gajendra-app/photos/main/ramayan.jpg",
       "stories_count": 6
     },
     {
       "id": "adhyatmik",
       "title": "आध्यात्मिक कथाएँ",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hanuman_langur.jpg/640px-Hanuman_langur.jpg",
+      "image_url": "https://raw.githubusercontent.com/gajendra-app/photos/main/ramayan.jpg",
       "stories_count": 9
     },
     {
       "id": "lok_kathaen",
       "title": "लोक कथाएँ",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Lion_%28PSF%29.png/640px-Lion_%28PSF%29.png",
+      "image_url": "https://raw.githubusercontent.com/gajendra-app/photos/main/ramayan.jpg",
       "stories_count": 7
     },
     {

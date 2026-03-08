@@ -428,6 +428,76 @@
     "content": "एक राजा बहुत दयालु और न्यायप्रिय था। वह हमेशा गरीबों और जरूरतमंदों की सहायता करता था। उसकी दयालुता के कारण उसकी प्रजा उससे बहुत प्रेम करती थी और उसका राज्य सुख और शांति से भरा हुआ था।"
   },
     {
+    "id": "mehnat_ka_fal",
+    "category_id": "shikshaprad",
+    "title": "मेहनत का फल",
+    "image_url": "https://raw.githubusercontent.com/gajendra-app/photos/main/mehnat.jpg",
+    "content": "एक किसान के दो बेटे थे। एक मेहनती था और दूसरा आलसी। पिता ने दोनों को खेत दिया और कहा कि मेहनत करके इसे उपजाऊ बनाओ। मेहनती बेटे ने दिन-रात मेहनत की और अच्छी फसल उगाई, जबकि आलसी बेटा कुछ नहीं कर पाया। तब उसे समझ आया कि सफलता केवल मेहनत से मिलती है।"
+  },
+  {
+    "id": "sachai_ki_jeet",
+    "category_id": "shikshaprad",
+    "title": "सच्चाई की जीत",
+    "image_url": "https://raw.githubusercontent.com/gajendra-app/photos/main/sachai.jpg",
+    "content": "एक बालक को रास्ते में पैसे से भरा बटुआ मिला। उसने उसे अपने पास रखने के बजाय उसके मालिक को ढूँढकर वापस कर दिया। मालिक उसकी ईमानदारी से बहुत खुश हुआ और उसे इनाम दिया। इस कहानी से सीख मिलती है कि सच्चाई की हमेशा जीत होती है।"
+  },
+  {
+    "id": "ahankar_ka_parinam",
+    "category_id": "shikshaprad",
+    "title": "अहंकार का परिणाम",
+    "image_url": "https://raw.githubusercontent.com/gajendra-app/photos/main/ahankar.jpg",
+    "content": "एक घमंडी राजा अपनी शक्ति पर बहुत गर्व करता था। एक साधु ने उसे समझाया कि अहंकार मनुष्य को पतन की ओर ले जाता है। जब राजा को अपनी गलती का एहसास हुआ तो उसने अहंकार छोड़कर विनम्रता अपनाई।"
+  },
+  {
+    "id": "imandari_ka_inam",
+    "category_id": "shikshaprad",
+    "title": "ईमानदारी का इनाम",
+    "image_url": "https://raw.githubusercontent.com/gajendra-app/photos/main/imandari.jpg",
+    "content": "एक दुकानदार के पास एक लड़का काम करता था। एक दिन ग्राहक ने ज्यादा पैसे दे दिए। लड़के ने तुरंत अतिरिक्त पैसे वापस कर दिए। दुकानदार उसकी ईमानदारी से बहुत खुश हुआ और उसे अपना भरोसेमंद कर्मचारी बना लिया।"
+  },
+  {
+    "id": "samay_ka_mahatva",
+    "category_id": "shikshaprad",
+    "title": "समय का महत्व",
+    "image_url": "https://raw.githubusercontent.com/gajendra-app/photos/main/time.jpg",
+    "content": "एक विद्यार्थी हमेशा पढ़ाई को टालता रहता था। परीक्षा के समय उसे बहुत कठिनाई हुई और वह अच्छे अंक नहीं ला पाया। तब उसे समझ आया कि समय का सही उपयोग करना बहुत जरूरी है।"
+  },
+  {
+    "id": "daya_aur_karuna",
+    "category_id": "shikshaprad",
+    "title": "दया और करुणा",
+    "image_url": "https://raw.githubusercontent.com/gajendra-app/photos/main/daya.jpg",
+    "content": "एक बालक ने रास्ते में घायल पक्षी देखा। उसने उसे उठाकर उसकी देखभाल की और स्वस्थ होने पर उड़ने के लिए छोड़ दिया। इस घटना से उसे समझ आया कि सभी जीवों के प्रति दया और करुणा रखना चाहिए।"
+  },
+  {
+    "id": "sabr_ka_fal",
+    "category_id": "shikshaprad",
+    "title": "सब्र का फल",
+    "image_url": "https://raw.githubusercontent.com/gajendra-app/photos/main/sabr.jpg",
+    "content": "एक माली रोज अपने पौधों की देखभाल करता था। धीरे-धीरे पौधे बड़े हुए और उनमें सुंदर फूल खिल गए। माली को समझ आया कि धैर्य और मेहनत से ही अच्छे परिणाम मिलते हैं।"
+  },
+  {
+    "id": "acchi_soch",
+    "category_id": "shikshaprad",
+    "title": "अच्छी सोच का महत्व",
+    "image_url": "https://raw.githubusercontent.com/gajendra-app/photos/main/thought.jpg",
+    "content": "एक गुरु ने अपने शिष्य को समझाया कि मनुष्य की सोच उसके जीवन को दिशा देती है। यदि सोच सकारात्मक हो तो जीवन में सफलता और खुशी मिलती है।"
+  },
+  {
+    "id": "madad_ka_mahatva",
+    "category_id": "shikshaprad",
+    "title": "मदद का महत्व",
+    "image_url": "https://raw.githubusercontent.com/gajendra-app/photos/main/help.jpg",
+    "content": "एक लड़का रास्ते में एक बूढ़े व्यक्ति को भारी सामान उठाते हुए देखता है। वह तुरंत उनकी मदद करता है। बूढ़े व्यक्ति ने उसे आशीर्वाद दिया और कहा कि दूसरों की मदद करना सबसे बड़ा पुण्य है।"
+  },
+  {
+    "id": "atmavishwas",
+    "category_id": "shikshaprad",
+    "title": "आत्मविश्वास की शक्ति",
+    "image_url": "https://raw.githubusercontent.com/gajendra-app/photos/main/confidence.jpg",
+    "content": "एक बालक को लगता था कि वह कोई काम सही से नहीं कर सकता। उसके गुरु ने उसे आत्मविश्वास रखने की सलाह दी। जब उसने विश्वास के साथ प्रयास किया तो वह सफल हो गया। तब उसे समझ आया कि आत्मविश्वास से असंभव भी संभव हो सकता है।"
+  },
+    {
       "id": "poos_ki_raat",
       "category_id": "munshi_premchand",
       "title": "पूस की रात",

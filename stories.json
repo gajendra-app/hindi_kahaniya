@@ -497,6 +497,76 @@
     "image_url": "https://raw.githubusercontent.com/gajendra-app/photos/main/confidence.jpg",
     "content": "एक बालक को लगता था कि वह कोई काम सही से नहीं कर सकता। उसके गुरु ने उसे आत्मविश्वास रखने की सलाह दी। जब उसने विश्वास के साथ प्रयास किया तो वह सफल हो गया। तब उसे समझ आया कि आत्मविश्वास से असंभव भी संभव हो सकता है।"
   },
+     {
+    "id": "krishna_janm",
+    "category_id": "bal_krishna_lila",
+    "title": "भगवान कृष्ण का जन्म",
+    "image_url": "https://raw.githubusercontent.com/gajendra-app/photos/main/krishna_janm.jpg",
+    "content": "मथुरा के राजा कंस के अत्याचार से पूरी प्रजा दुखी थी। भविष्यवाणी हुई कि देवकी का आठवाँ पुत्र कंस का वध करेगा। जब भगवान कृष्ण का जन्म हुआ तब वसुदेव जी उन्हें रात में गोकुल ले गए और नंद बाबा के घर छोड़ आए। वहीं यशोदा मैया ने उनका पालन-पोषण किया।"
+  },
+  {
+    "id": "makhan_chori",
+    "category_id": "bal_krishna_lila",
+    "title": "माखन चोर कृष्ण",
+    "image_url": "https://raw.githubusercontent.com/gajendra-app/photos/main/makhan_chor.jpg",
+    "content": "बाल कृष्ण को माखन बहुत प्रिय था। वे अपने मित्रों के साथ मिलकर गोकुल की गोपियों के घरों में जाकर माखन चुरा लेते थे। गोपियाँ यशोदा मैया से शिकायत करती थीं, लेकिन कृष्ण की मधुर मुस्कान देखकर सबका क्रोध शांत हो जाता था।"
+  },
+  {
+    "id": "putana_vadh",
+    "category_id": "bal_krishna_lila",
+    "title": "पूतना वध",
+    "image_url": "https://raw.githubusercontent.com/gajendra-app/photos/main/putana.jpg",
+    "content": "कंस ने बाल कृष्ण को मारने के लिए राक्षसी पूतना को भेजा। वह सुंदर स्त्री का रूप बनाकर गोकुल पहुँची और कृष्ण को विष पिलाने लगी। लेकिन कृष्ण ने उसका प्राण ही खींच लिया और उसका वध कर दिया।"
+  },
+  {
+    "id": "shakatasur_vadh",
+    "category_id": "bal_krishna_lila",
+    "title": "शकटासुर वध",
+    "image_url": "https://raw.githubusercontent.com/gajendra-app/photos/main/shakatasur.jpg",
+    "content": "एक बार जब बाल कृष्ण पालने में लेटे थे तब कंस द्वारा भेजा गया राक्षस शकटासुर एक गाड़ी के रूप में आया। कृष्ण ने खेल-खेल में अपने पैर से गाड़ी को जोर से मारा और वह टूट गई। इस प्रकार शकटासुर का वध हो गया।"
+  },
+  {
+    "id": "trinavarta_vadh",
+    "category_id": "bal_krishna_lila",
+    "title": "त्रिणावर्त वध",
+    "image_url": "https://raw.githubusercontent.com/gajendra-app/photos/main/trinavarta.jpg",
+    "content": "कंस ने त्रिणावर्त नामक राक्षस को भेजा। वह भयंकर तूफान बनकर आया और बाल कृष्ण को आकाश में उठा ले गया। लेकिन कृष्ण ने उसका गला पकड़ लिया और वह धरती पर गिरकर मर गया।"
+  },
+  {
+    "id": "ukhal_bandhan",
+    "category_id": "bal_krishna_lila",
+    "title": "उखल बंधन लीला",
+    "image_url": "https://raw.githubusercontent.com/gajendra-app/photos/main/ukhal.jpg",
+    "content": "एक दिन यशोदा मैया ने कृष्ण को माखन चोरी के कारण उखल से बाँध दिया। कृष्ण उखल को घसीटते हुए दो बड़े पेड़ों के बीच से निकले। पेड़ गिर पड़े और उनमें से दो देवता प्रकट हुए जिन्हें कृष्ण ने मुक्त कर दिया।"
+  },
+  {
+    "id": "kaliya_nag_daman",
+    "category_id": "bal_krishna_lila",
+    "title": "कालिया नाग दमन",
+    "image_url": "https://raw.githubusercontent.com/gajendra-app/photos/main/kaliya.jpg",
+    "content": "यमुना नदी में कालिया नाम का विषैला नाग रहता था जिससे सभी लोग डरते थे। बाल कृष्ण नदी में कूद गए और कालिया नाग के फनों पर नृत्य करने लगे। अंत में नाग ने हार मान ली और कृष्ण से क्षमा माँगकर वहाँ से चला गया।"
+  },
+  {
+    "id": "govardhan_dharan",
+    "category_id": "bal_krishna_lila",
+    "title": "गोवर्धन पर्वत धारण",
+    "image_url": "https://raw.githubusercontent.com/gajendra-app/photos/main/govardhan.jpg",
+    "content": "गोकुल के लोग इंद्र देव की पूजा करते थे। कृष्ण ने उन्हें गोवर्धन पर्वत की पूजा करने के लिए प्रेरित किया। क्रोधित होकर इंद्र ने भारी वर्षा कर दी। तब कृष्ण ने अपनी छोटी उंगली पर गोवर्धन पर्वत उठाकर सभी लोगों की रक्षा की।"
+  },
+  {
+    "id": "gwal_bal_khel",
+    "category_id": "bal_krishna_lila",
+    "title": "ग्वाल बालों के साथ खेल",
+    "image_url": "https://raw.githubusercontent.com/gajendra-app/photos/main/gwalbal.jpg",
+    "content": "बाल कृष्ण अपने मित्र ग्वाल बालों के साथ जंगल में गाय चराने जाते थे। वे वहाँ खेलते, गाते और बांसुरी बजाते थे। उनकी मधुर बांसुरी की धुन से पूरा वातावरण आनंदमय हो जाता था।"
+  },
+  {
+    "id": "krishna_bansuri",
+    "category_id": "bal_krishna_lila",
+    "title": "कृष्ण की मधुर बांसुरी",
+    "image_url": "https://raw.githubusercontent.com/gajendra-app/photos/main/bansuri.jpg",
+    "content": "भगवान कृष्ण की बांसुरी की धुन इतनी मधुर थी कि उसे सुनकर सभी लोग मंत्रमुग्ध हो जाते थे। गायें, ग्वाल बाल और गोपियाँ सब उनके पास खिंचे चले आते थे। उनकी बांसुरी प्रेम और भक्ति का प्रतीक मानी जाती है।"
+  },
     {
       "id": "poos_ki_raat",
       "category_id": "munshi_premchand",
